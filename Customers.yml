@@ -1,2 +1,5 @@
 spring.h2.console.enabled: true
 spring.jpa.hibernate.ddl-auto: none
+spring:
+  datasource:
+    password: '{cipher}0a6f1347d79a19deedd44a1ccea477ec68de91afc5916da90bdce53b19f598bb0e40df6e8a8bfb17ee7ed3e0267b1eeb'
